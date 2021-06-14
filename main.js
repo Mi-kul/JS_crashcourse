@@ -1,0 +1,2 @@
+alert('kokot');
+alert("kokottt")
