@@ -213,3 +213,4 @@ class Customer {
 const zakaznik = new Customer("Pepa", "Novak", 10000.0, null);
 zakaznik.setFirstName("Josef");
 console.log(zakaznik);
+
